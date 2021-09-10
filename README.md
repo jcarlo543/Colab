@@ -1,2 +1,0 @@
-# Colab
-Pruebas de Collaboratory
